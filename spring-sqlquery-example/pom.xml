@@ -3,7 +3,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>andang72</groupId>
-	<artifactId>spring-web-example</artifactId>
+	<artifactId>spring-sqlquery-example</artifactId>
 	<version>1.0.0-RELEASE</version>
 
 	<name>커뮤니티 프로젝트</name>
